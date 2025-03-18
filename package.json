@@ -1,0 +1,27 @@
+{
+  "name": "telegram-notify",
+  "main": "TelegramNotify.js",
+  "version": "0.1.0",
+  "description": "telegram-notify",
+  "keywords": [
+    "Telegram Bot API",
+    "telegram-notify",
+    "bot"
+  ],
+  "repository": "https://github.com/bombkiml/telegram-notify",
+  "deprecated": false,
+  "engines": {
+    "node": ">=6.0"
+  },
+  "license": "MIT",
+  "author": "bombkiml",
+  "bugs": {
+    "url": "https://github.com/bombkiml/telegram-notify/issues"
+  },
+  "homepage": "https://github.com/bombkiml/telegram-notify/blob/master/README.md",
+  "dependencies": {
+    "https-proxy-agent": "~5.0.0",
+    "node-fetch": "~2.6.7",
+    "usleep": "^1.0.3"
+  }
+}
