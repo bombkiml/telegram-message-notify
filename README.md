@@ -1,11 +1,11 @@
-# Telegram-notify
+# Telegram-message-notify
 
 This package for sending telegram messages notify
 
 ## Usage
 
 ```js
-  const Telegram = require("telegram-notify");
+  const Telegram = require("telegram-message-notify");
   
   let notify = new Telegram({
     token: "yourTokenString",
@@ -21,7 +21,7 @@ This package for sending telegram messages notify
 To use the library, install it through [npm](https://npmjs.com)
 
 ```shell
-npm install --save telegram-notify
+npm install --save telegram-message-notify
 ```
 
 ## Config

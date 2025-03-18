@@ -1,11 +1,12 @@
 {
-  "name": "telegram-notify",
+  "name": "telegram-message-notify",
   "main": "TelegramNotify.js",
   "version": "0.1.0",
-  "description": "telegram-notify",
+  "description": "Telegram sand a messages notify",
   "keywords": [
     "Telegram Bot API",
-    "telegram-notify",
+    "telegram notify",
+    "telegram message",
     "bot"
   ],
   "repository": "https://github.com/bombkiml/telegram-notify",
